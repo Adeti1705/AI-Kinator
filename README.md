@@ -1,9 +1,8 @@
-🎮 AI-Kinator: A Reverse Akinator Game
+AI-Kinator: A Reverse Akinator Game
 
 🌟 Inspiration
-We wanted to build a fun, interactive puzzle game for the HACH-REDDIT 2025 hackathon. After rejecting several ideas, inspiration struck when YouTube randomly recommended an old Akinator video.
-
-💡 What if, instead of answering, the player asks questions to guess a secret entity?
+We wanted to build a fun, interactive puzzle game for the HACK-REDDIT 2025 hackathon. After rejecting several ideas, inspiration struck when YouTube randomly recommended an old Akinator video.
+What if, instead of answering, the player asks questions to guess a secret entity?
 
 And just like that, AI-Kinator was born!
 
