@@ -1,6 +1,7 @@
 🎮 AI-Kinator: A Reverse Akinator Game
+
 🌟 Inspiration
-We wanted to build a fun, interactive puzzle game for HACH-REDDIT 2025 hackathon. After rejecting several ideas, inspiration struck when YouTube randomly recommended an old Akinator video.
+We wanted to build a fun, interactive puzzle game for the HACH-REDDIT 2025 hackathon. After rejecting several ideas, inspiration struck when YouTube randomly recommended an old Akinator video.
 
 💡 What if, instead of answering, the player asks questions to guess a secret entity?
 
@@ -14,7 +15,7 @@ We used:
 - Google Gemini API for processing user questions.
 - Devvit (Blockposts) for simple Reddit integration.
 
-We initially considered a Web UI, but due to time constraints we simply stuck with blockposts for a smoother experience.
+We initially considered a Web UI, but due to time constraints, we simply stuck with blockposts for a smoother experience.
 
 🚧 Challenges We Ran Into
 - No Fixed Decision Tree: Unlike Akinator, our game required AI to handle unstructured guesses dynamically.
