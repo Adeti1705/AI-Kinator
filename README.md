@@ -1,5 +1,8 @@
 AI-Kinator: A Reverse Akinator Game
 
+Try it out
+[www.reddit.com](https://www.reddit.com/r/Reverse_Akinator/)
+
 ðŸŒŸ Inspiration
 We wanted to build a fun, interactive puzzle game for the HACK-REDDIT 2025 hackathon. After rejecting several ideas, inspiration struck when YouTube randomly recommended an old Akinator video.
 What if, instead of answering, the player asks questions to guess a secret entity?
@@ -40,8 +43,6 @@ We hope Redditors enjoy playing AI-Kinator as much as we enjoyed building it! ðŸ
 
 Built With: 
 - Devvit
-- gemini API
-- typescript
-  
-Try it out
-[www.reddit.com](https://www.reddit.com/r/Reverse_Akinator/)
+- Gemini API
+- Typescript
+
